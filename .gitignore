@@ -1,0 +1,13 @@
+# data and model files live on Google Drive / Hugging Face, not in git
+data/raw/
+data/labeled/
+data/processed*/
+data/gold_test.jsonl
+data/mentions*.jsonl
+runs/
+*.pt
+*.safetensors
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

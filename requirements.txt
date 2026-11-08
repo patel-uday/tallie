@@ -1,0 +1,7 @@
+torch>=2.3
+transformers>=4.55
+peft>=0.15
+accelerate
+huggingface_hub
+requests
+# optional, only for the open-model labeling teacher:  vllm
